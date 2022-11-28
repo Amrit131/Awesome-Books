@@ -36,11 +36,11 @@ Anyone can use this project by giving proper credit.
 - Twitter: [@twitterhandle](https://twitter.com/i_ammrit)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mishra-amrit/)
 
-👤 **Amrit Mishra**
+👤 **Jorum Odiemo**
 
-- GitHub: [@githubhandle](https://github.com/Amrit131)
-- Twitter: [@twitterhandle](https://twitter.com/i_ammrit)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mishra-amrit/)
+- GitHub: [@githubhandle](https://github.com/JOdiemo)
+- Twitter: [@twitterhandle](https://twitter.com/jorumodiemo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/jorumodiemo)
 
 
 ## 🤝 Contributing

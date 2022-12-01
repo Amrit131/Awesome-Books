@@ -191,12 +191,14 @@ li {
   background-color: #fff;
   height: 50px;
   margin-top: 20px;
+  border: 2px solid #2d1fe8;
 }
 
 .allbooks:nth-of-type(even) {
   background-color: #ffdfb5;
   height: 50px;
   margin-top: 20px;
+  border: 2px solid #2d1fe8;
 }
 
 .allbooks p {
@@ -210,6 +212,7 @@ li {
   height: 30px;
   border: 3px solid #2d1fe8;
   background-color: white;
+  font-weight: 700;
 }
 
 .removeBtn:hover {
@@ -242,16 +245,16 @@ li {
 }
 
 .contact ul {
-  width: 60%;
+  width: 45%;
   height: 20vh;
   margin-top: 20px;
   background-color: #ffdfb5;
-  padding-top: 100px;
+  padding-top: 40px;
 }
 
 .contact ul li {
   list-style: disc;
-  margin-left: 50px;
+  margin-left: 120px;
 }
 
 .footer {

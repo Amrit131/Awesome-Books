@@ -64,7 +64,7 @@
 
 ## Live Demo
 
-- [Live Demo Link](https://github.com/Amrit131/Awesome-Books)
+- [Live Demo Link](https://amrit131.github.io/Awesome-Books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
